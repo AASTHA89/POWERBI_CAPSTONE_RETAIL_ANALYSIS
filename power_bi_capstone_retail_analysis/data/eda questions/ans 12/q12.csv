@@ -1,0 +1,257 @@
+city,country,customerNumber
+Nashua,USA,363
+Frankfurt,Germany,128
+NYC,USA,181
+Stavern,Norway,121
+Madrid,Spain,141
+Kobenhavn,Denmark,145
+Bergamo,Italy,278
+NYC,USA,131
+Philadelphia,USA,486
+"San Francisco",USA,129
+"San Rafael",USA,124
+Paris,France,172
+NYC,USA,424
+Singapore,Singapore,148
+Barcelona,Spain,216
+Salzburg,Austria,382
+Melbourne,Australia,114
+Reims,France,353
+Marseille,France,350
+Nantes,France,103
+"Las Vegas",USA,112
+Melbourne,Australia,114
+Madrid,Spain,458
+NYC,USA,151
+Madrid,Spain,141
+Brickhaven,USA,198
+Glendale,USA,447
+Madrid,Spain,141
+Paris,France,250
+"San Rafael",USA,124
+Toulouse,France,242
+Reims,France,353
+Chatswood,Australia,282
+Burlingame,USA,161
+"San Rafael",USA,124
+"New Bedford",USA,320
+Pasadena,USA,205
+Glendale,USA,447
+Brickhaven,USA,379
+"North Sydney",Australia,276
+Brisbane,USA,487
+Singapore,Singapore,148
+Oulu,Finland,311
+"South Brisbane",Australia,333
+Madrid,Spain,141
+Glendale,USA,219
+Helsinki,Finland,186
+Madrid,Spain,141
+Stavern,Norway,121
+"San Francisco",USA,321
+"Los Angeles",USA,347
+Ãƒâ€¦rhus,Denmark,227
+"San Francisco",USA,321
+NYC,USA,424
+Graz,Austria,452
+Singapore,Singapore,148
+"New Bedford",USA,462
+Burlingame,USA,161
+"North Sydney",Australia,276
+Graz,Austria,452
+Bridgewater,USA,175
+Bergamo,Italy,278
+"South Brisbane",Australia,333
+"Reggio Emilia",Italy,386
+Madrid,Spain,344
+Toulouse,France,242
+Lille,France,171
+"San Rafael",USA,124
+Philadelphia,USA,339
+Sevilla,Spain,484
+"New Bedford",USA,320
+Pasadena,USA,205
+Madrid,Spain,141
+KÃƒÂ¶ln,Germany,259
+Nashua,USA,363
+"Glen Waverly",Australia,471
+Lyon,France,146
+"White Plains",USA,319
+"New Haven",USA,455
+Barcelona,Spain,216
+Burbank,USA,475
+"San Francisco",USA,129
+Madrid,Spain,141
+NYC,USA,151
+Madrid,Spain,141
+Boston,USA,495
+Lyon,France,146
+"Los Angeles",USA,347
+Paris,France,406
+Madrid,Spain,141
+Madrid,Spain,458
+Burbank,USA,475
+Versailles,France,256
+Singapore,Singapore,166
+Brisbane,USA,487
+Dublin,Ireland,189
+"San Diego",USA,239
+Melbourne,Australia,114
+Lille,France,171
+GenÃƒÂ¨ve,Switzerland,298
+"San Diego",USA,239
+Lyon,France,146
+Cambridge,USA,173
+"San Rafael",USA,124
+Frankfurt,Germany,128
+Madrid,Spain,344
+Newark,USA,328
+Philadelphia,USA,486
+NYC,USA,181
+Kobenhavn,Denmark,145
+Oulu,Finland,311
+Strasbourg,France,209
+NYC,USA,456
+Boston,USA,495
+Madrid,Spain,141
+"New Haven",USA,455
+Madrid,Spain,141
+NYC,USA,131
+Cambridge,USA,173
+"San Jose",USA,450
+Newark,USA,328
+Paris,France,406
+Strasbourg,France,209
+Kobenhavn,Denmark,145
+"San Jose",USA,450
+Singapore,Singapore,166
+Madrid,Spain,141
+Bridgewater,USA,175
+Boston,USA,362
+"Glen Waverly",Australia,471
+"Reggio Emilia",Italy,386
+NYC,USA,151
+Salzburg,Austria,382
+Chatswood,Australia,282
+"San Rafael",USA,124
+Allentown,USA,157
+Brickhaven,USA,379
+Nantes,France,119
+Brickhaven,USA,204
+Singapore,Singapore,148
+"Las Vegas",USA,112
+Madrid,Spain,141
+Torino,Italy,249
+Allentown,USA,157
+"San Rafael",USA,124
+Cambridge,USA,286
+Paris,France,172
+GenÃƒÂ¨ve,Switzerland,298
+Singapore,Singapore,166
+Brickhaven,USA,198
+NYC,USA,131
+Torino,Italy,249
+Brickhaven,USA,204
+Boston,USA,362
+Munich,Germany,415
+Dublin,Ireland,189
+Nantes,France,103
+Helsinki,Finland,186
+Frankfurt,Germany,128
+Sevilla,Spain,484
+Versailles,France,256
+Cambridge,USA,286
+Philadelphia,USA,339
+"White Plains",USA,319
+Stavern,Norway,121
+KÃƒÂ¶ln,Germany,259
+Madrid,Spain,141
+"San Rafael",USA,124
+Ãƒâ€¦rhus,Denmark,227
+Nantes,France,119
+Burlingame,USA,161
+Allentown,USA,157
+NYC,USA,456
+"New Bedford",USA,462
+Nashua,USA,363
+Frankfurt,Germany,128
+NYC,USA,181
+Stavern,Norway,121
+Kobenhavn,Denmark,145
+Bergamo,Italy,278
+NYC,USA,131
+Philadelphia,USA,486
+"San Francisco",USA,129
+"San Rafael",USA,124
+Paris,France,172
+NYC,USA,424
+Barcelona,Spain,216
+Salzburg,Austria,382
+Melbourne,Australia,114
+Reims,France,353
+Marseille,France,350
+Nantes,France,103
+"Las Vegas",USA,112
+Melbourne,Australia,114
+Madrid,Spain,458
+NYC,USA,151
+Madrid,Spain,141
+Brickhaven,USA,198
+Glendale,USA,447
+Madrid,Spain,141
+Paris,France,250
+"San Rafael",USA,124
+Madrid,Spain,141
+Reims,France,353
+Chatswood,Australia,282
+Burlingame,USA,161
+Marseille,France,350
+"New Bedford",USA,320
+Pasadena,USA,205
+"San Rafael",USA,124
+Brickhaven,USA,379
+"North Sydney",Australia,276
+"San Rafael",USA,124
+Oulu,Finland,311
+"South Brisbane",Australia,333
+Nantes,France,119
+Glendale,USA,219
+Helsinki,Finland,186
+Madrid,Spain,141
+Madrid,Spain,141
+Madrid,Spain,141
+"San Francisco",USA,321
+"San Rafael",USA,124
+Madrid,Spain,141
+"San Francisco",USA,321
+"San Rafael",USA,124
+Madrid,Spain,141
+Singapore,Singapore,148
+"New Bedford",USA,462
+"San Rafael",USA,124
+"North Sydney",Australia,276
+Graz,Austria,452
+Madrid,Spain,141
+Paris,France,250
+"San Rafael",USA,124
+Toulouse,France,242
+Reims,France,353
+"San Jose",USA,450
+Newark,USA,328
+Paris,France,406
+Strasbourg,France,209
+Kobenhavn,Denmark,145
+"San Jose",USA,450
+Singapore,Singapore,166
+Madrid,Spain,141
+Bridgewater,USA,175
+Boston,USA,362
+"Glen Waverly",Australia,471
+"Reggio Emilia",Italy,386
+Madrid,Spain,141
+Salzburg,Austria,382
+Chatswood,Australia,282
+"San Rafael",USA,124
+Allentown,USA,157
+Madrid,Spain,141
+Nantes,France,119
